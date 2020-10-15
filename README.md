@@ -2,7 +2,7 @@
 Hi there 👋, My name is Almog Lev and I'm looking for a student software development position.  
 You can also fine me on:
 <br>
-<a href="https://www.linkedin.com/in/almog-lev-2251131b1/" target="_blank"><img src="linkedin.png" alt="LinkedIn" style="width:10px;height:10px;"></a>
+[![Linkedin](linkedin.png)](https://www.linkedin.com/in/almog-lev-2251131b1/)
 
 <!--
 **almoglev/almoglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
