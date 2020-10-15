@@ -1,6 +1,8 @@
 ![](0.jpg)
 Hi there 👋, My name is Almog Lev and I'm looking for a student software development position.  
-You can also fine me on: <a href="https://www.linkedin.com/in/almog-lev-2251131b1/"><img src="linkedin.png" alt="LinkedIn" style="width:15px;height:15px;"></a>
+You can also fine me on:
+<br>
+<a href="https://www.linkedin.com/in/almog-lev-2251131b1/"><img src="linkedin.png" alt="LinkedIn" style="width:10px;height:10px;"></a>
 
 <!--
 **almoglev/almoglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
