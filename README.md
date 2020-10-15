@@ -1,4 +1,4 @@
-
+![](0.jpg)
 Hi there 👋, My name is Almog Lev and I'm looking for a student software development position.
 Other places on the web where you can find me: 
 
