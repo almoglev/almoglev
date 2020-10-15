@@ -1,6 +1,5 @@
 ![](0.jpg)
 Hi there 👋, My name is Almog Lev and I'm looking for a student software development position.
-Other places on the web where you can find me: 
 
 <!--
 **almoglev/almoglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
