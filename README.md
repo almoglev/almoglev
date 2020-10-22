@@ -1,6 +1,7 @@
 ![](0.jpg)
 Hi there 👋, my name is Almog Lev and I'm looking for a student software development position.  
 You can also find me on:
+<br>
 [![Linkedin](linkedInIcon.png)](https://www.linkedin.com/in/almog-lev-2251131b1/)
 
 <!--
