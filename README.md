@@ -3,7 +3,7 @@
 <html>
 <h2 align="center">Hi there 👋, I'm Almog Lev</h2>
 <h4 align="left">
-• Security Researcher (Crypto, Blockchain and Quantum Team) & B.Sc. Computer Science student at Bar-Ilan University
+• Security Researcher (Crypto, Blockchain and Quantum Team) & B.Sc. Computer Science student at Bar-Ilan University<br>
 • Strong passion and enthusiasm for cyber-security and data science fields.
 </h4>
 <h4 align="left">You can also find me on:</h4>
