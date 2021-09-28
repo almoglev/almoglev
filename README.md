@@ -9,6 +9,4 @@
 </h4>
 <h4 align="left">You can also find me on:</h4>
 <a href="https://www.linkedin.com/in/almoglev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:almoglev3@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-EMail-blue?style=for-the-badge&logo=icloud" /></a>
-
 </html>
