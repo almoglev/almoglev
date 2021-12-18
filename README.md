@@ -8,7 +8,7 @@
 </h4>
 <h4 align="left">You can also find me on:</h4>
 <a href="https://www.linkedin.com/in/almoglev" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 </br>
 <a href="https://almoglev.github.io/" target="_blank">My Website</a>
