@@ -11,5 +11,5 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 </br>
-<a href="https://almoglev.github.io/" target="_blank">     My Website</a>
+<a href="https://almoglev.github.io/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/website--v1.png"/></a>
 </html>
