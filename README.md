@@ -4,7 +4,7 @@
     <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
   </div>-->
 
-  <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Almog Lev</h2>
+  <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Almog Lev</h1>
 
   <div>
     <p align="center">
@@ -13,7 +13,7 @@
     </p>
   </div>
 <div align="center">
-  <h3 align="center">You can also find me on:</h3>
+  <h2 align="center">You can also find me on:</h2>
   <a href="https://www.linkedin.com/in/almoglev" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" width="30" height="30"/>
   </a>
