@@ -12,16 +12,10 @@
     </p>
   </div>
 
-  <h3 align="left">
-  • Software Engineer<br>
-  • B.Sc. in Computer Science from Bar-Ilan University<br>
-  </h3>
   <h3 align="left">You can also find me on:</h3>
   <a href="https://www.linkedin.com/in/almoglev" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" width="30" height="30"/>
   </a>
-  </br>
   <a href="https://almoglev.github.io/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/website--v1.png" width="30" height="30"/></a>
   
-  ![](innovation.jpg)
 </html>
