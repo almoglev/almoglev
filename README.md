@@ -1,7 +1,7 @@
   ![](innovation-narrow.jpg)
 <html>
   <div align="center">
-    <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+    <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="120" height="150" />
   </div>
 
   <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Almog Lev</h2>
