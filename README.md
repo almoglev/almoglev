@@ -1,8 +1,8 @@
   ![](innovation-narrow.jpg)
 <html>
-  <div align="center">
+  <!--<div align="center">
     <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="120" height="120" />
-  </div>
+  </div>-->
 
   <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Almog Lev</h2>
 
@@ -13,11 +13,12 @@
     </p>
   </div>
 <div align="center">
-  <h3 align="center">You can also find me on:</h3>
+  <h3 align="center">You can find me on:</h3>
   <a href="https://www.linkedin.com/in/almoglev" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" width="40" height="40"/>
   </a>
   <a href="https://almoglev.github.io/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/website--v1.png" width="40" height="40"/></a>
+  <a href="https://www.github.com/almoglev" target="_blank"><img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="40" height="40"/></a>
 </div>
   
 </html>
