@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/almoglev" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" width="40" height="40"/>
   </a>
-  <a href="https://almoglev.github.io/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/website--v1.png" width="40" height="40"/></a>
+  <a href="https://almoglev.netlify.app/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/website--v1.png" width="40" height="40"/></a>
 </div>
 </html>
