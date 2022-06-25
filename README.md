@@ -4,7 +4,7 @@
     <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="120" height="120" />
   </div>-->
 
-  <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Almog Lev</h2>
+  <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">, I'm Almog Lev</h2>
 
   <div>
     <p align="center">
