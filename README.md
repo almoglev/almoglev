@@ -16,7 +16,7 @@
 <div align = "center">
   <!--<img height="135px" src="https://github-readme-stats.vercel.app/api?username=almoglev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=buefy" />-->
   
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoglev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=buefy" />
+  <!--<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoglev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=buefy" />-->
   
   <!--<br/> 
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=almoglev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
