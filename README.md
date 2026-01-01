@@ -9,7 +9,7 @@
   <div>
     <p align="center">
       <a href="https://www.github.com/almoglev" target="_blank"><img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="65" height="65"/></a>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20at%20WSC%20Sports;B.Sc.%20Computer%20Science%20Graduate;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=18"></a>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20at%20Microsoft;B.Sc.%20Computer%20Science%20Graduate;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=18"></a>
     </p>
   </div>
   
